@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 -->
 
 # Olá! 👋
-## Meu nome é Leonardo Vieira, sou estudante de Analise e Desenvolvimento de Sistemas, cursando o segundo semestre e, no momento, estou aprimorando meus conhecimentos em desenvolvimento web e dados.  
+## Meu nome é Leonardo Vieira, sou estudante de Analise e Desenvolvimento de Sistemas, cursando o terceiro semestre e, no momento, estou aprimorando meus conhecimentos em desenvolvimento web e dados.  
 
 ### Entre em contato:
 <a href="https://www.linkedin.com/in/leonardo-vieira-dsl/"><img width="35px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" /></a>          
