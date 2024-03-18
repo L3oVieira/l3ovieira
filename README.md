@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 -->
 
 # Olá! 👋
-## Meu nome é Leonardo Vieira, sou estudante de Analise e Desenvolvimento de Sistemas, cursando o último semestre e, no momento, estou aprimorando meus conhecimentos em desenvolvimento web e dados.  
+## Meu nome é Leonardo Vieira, sou estudante de Analise e Desenvolvimento de Sistemas, cursando o terceiro semestre e, no momento, estou aprimorando meus conhecimentos em desenvolvimento web e dados.  
 
 ### Entre em contato:
 <a href="https://www.linkedin.com/in/leonardo-vieira-dsl/"><img width="35px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" /></a>          
@@ -34,8 +34,8 @@ Here are some ideas to get you started:
   <!-- <img width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original-wordmark.svg" /> -->
 
   <img width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" />
-  <img width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dotnetcore/dotnetcore-original.svg" />        
-  <img width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg" />
+<!--  <img width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dotnetcore/dotnetcore-original.svg" />     
+  <img width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg" /> -->  
         
   <!-- <img width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kotlin/kotlin-original.svg" />
      <img width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/android/android-original-wordmark.svg" />
